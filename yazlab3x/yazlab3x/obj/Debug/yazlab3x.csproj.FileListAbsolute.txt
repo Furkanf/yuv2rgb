@@ -1,0 +1,32 @@
+C:\Users\furkn\Desktop\yazlab\yazlab3x\yazlab3x\bin\Debug\yazlab3x.exe.config
+C:\Users\furkn\Desktop\yazlab\yazlab3x\yazlab3x\bin\Debug\yazlab3x.exe
+C:\Users\furkn\Desktop\yazlab\yazlab3x\yazlab3x\bin\Debug\yazlab3x.pdb
+C:\Users\furkn\Desktop\yazlab\yazlab3x\yazlab3x\obj\Debug\yazlab3x.csprojAssemblyReference.cache
+C:\Users\furkn\Desktop\yazlab\yazlab3x\yazlab3x\obj\Debug\yazlab3x.Form1.resources
+C:\Users\furkn\Desktop\yazlab\yazlab3x\yazlab3x\obj\Debug\yazlab3x.Properties.Resources.resources
+C:\Users\furkn\Desktop\yazlab\yazlab3x\yazlab3x\obj\Debug\yazlab3x.csproj.GenerateResource.cache
+C:\Users\furkn\Desktop\yazlab\yazlab3x\yazlab3x\obj\Debug\yazlab3x.csproj.CoreCompileInputs.cache
+C:\Users\furkn\Desktop\yazlab\yazlab3x\yazlab3x\obj\Debug\yazlab3x.exe
+C:\Users\furkn\Desktop\yazlab\yazlab3x\yazlab3x\obj\Debug\yazlab3x.pdb
+C:\Users\furkn\Desktop\yazlab\yazlab3x\yazlab3x\yazlab3x\bin\Debug\yazlab3x.exe.config
+C:\Users\furkn\Desktop\yazlab\yazlab3x\yazlab3x\yazlab3x\bin\Debug\yazlab3x.exe
+C:\Users\furkn\Desktop\yazlab\yazlab3x\yazlab3x\yazlab3x\bin\Debug\yazlab3x.pdb
+C:\Users\furkn\Desktop\yazlab\yazlab3x\yazlab3x\yazlab3x\obj\Debug\yazlab3x.csprojAssemblyReference.cache
+C:\Users\furkn\Desktop\yazlab\yazlab3x\yazlab3x\yazlab3x\obj\Debug\yazlab3x.Form1.resources
+C:\Users\furkn\Desktop\yazlab\yazlab3x\yazlab3x\yazlab3x\obj\Debug\yazlab3x.Properties.Resources.resources
+C:\Users\furkn\Desktop\yazlab\yazlab3x\yazlab3x\yazlab3x\obj\Debug\yazlab3x.csproj.GenerateResource.cache
+C:\Users\furkn\Desktop\yazlab\yazlab3x\yazlab3x\yazlab3x\obj\Debug\yazlab3x.csproj.CoreCompileInputs.cache
+C:\Users\furkn\Desktop\yazlab\yazlab3x\yazlab3x\yazlab3x\obj\Debug\yazlab3x.exe
+C:\Users\furkn\Desktop\yazlab\yazlab3x\yazlab3x\yazlab3x\obj\Debug\yazlab3x.pdb
+C:\Users\furkn\Desktop\yazlab\yazlab3x\yazlab3x\yazlab3x\obj\Debug\yazlab3x.Form2.resources
+C:\Users\furkn\Desktop\yazlab 1.donem\yazlab3x\yazlab3x\yazlab3x\bin\Debug\yazlab3x.exe.config
+C:\Users\furkn\Desktop\yazlab 1.donem\yazlab3x\yazlab3x\yazlab3x\bin\Debug\yazlab3x.exe
+C:\Users\furkn\Desktop\yazlab 1.donem\yazlab3x\yazlab3x\yazlab3x\bin\Debug\yazlab3x.pdb
+C:\Users\furkn\Desktop\yazlab 1.donem\yazlab3x\yazlab3x\yazlab3x\obj\Debug\yazlab3x.csprojAssemblyReference.cache
+C:\Users\furkn\Desktop\yazlab 1.donem\yazlab3x\yazlab3x\yazlab3x\obj\Debug\yazlab3x.Form1.resources
+C:\Users\furkn\Desktop\yazlab 1.donem\yazlab3x\yazlab3x\yazlab3x\obj\Debug\yazlab3x.Form2.resources
+C:\Users\furkn\Desktop\yazlab 1.donem\yazlab3x\yazlab3x\yazlab3x\obj\Debug\yazlab3x.Properties.Resources.resources
+C:\Users\furkn\Desktop\yazlab 1.donem\yazlab3x\yazlab3x\yazlab3x\obj\Debug\yazlab3x.csproj.GenerateResource.cache
+C:\Users\furkn\Desktop\yazlab 1.donem\yazlab3x\yazlab3x\yazlab3x\obj\Debug\yazlab3x.csproj.CoreCompileInputs.cache
+C:\Users\furkn\Desktop\yazlab 1.donem\yazlab3x\yazlab3x\yazlab3x\obj\Debug\yazlab3x.exe
+C:\Users\furkn\Desktop\yazlab 1.donem\yazlab3x\yazlab3x\yazlab3x\obj\Debug\yazlab3x.pdb
